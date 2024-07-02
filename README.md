@@ -37,14 +37,14 @@ Windows:
    venv\Scripts\activate
    ```
 Unix or MacOS:
-```
-source venv/bin/activate
-```
+   ```
+   source venv/bin/activate
+   ```
 
 安装依赖：
-```
-   pip install -r requirements.txt
-```
+   ```
+      pip install -r requirements.txt
+   ```
 
 ## 运行项目
 启动应用：
